@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/japanes/static/css/main.924d7d1c.css",
+    "main.js": "/japanes/static/js/main.f4fde98a.js",
+    "static/media/sushi.jpg": "/japanes/static/media/sushi.a2b4b921ab28b2b3f6c7.jpg",
+    "index.html": "/japanes/index.html",
+    "main.924d7d1c.css.map": "/japanes/static/css/main.924d7d1c.css.map",
+    "main.f4fde98a.js.map": "/japanes/static/js/main.f4fde98a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.924d7d1c.css",
+    "static/js/main.f4fde98a.js"
+  ]
+}
